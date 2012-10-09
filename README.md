@@ -1,0 +1,1 @@
+Spoton -idx plugins used for wordpress. These all plugins are old versions 
